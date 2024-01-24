@@ -3,7 +3,7 @@ export default function Home() {
     <main className="relative">
       <div className="flex">
         <div
-          className="w-1/2 h-screen bg-[#F5F0F6] flex justify-center flex-col md:pr-10 pr-4">
+          className="w-1/2 h-[100svh] bg-[#F5F0F6] flex justify-center flex-col md:pr-10 pr-4">
           <h1 className="text-3xl md:text-5xl font-display text-right">Maja Benn</h1>
           <p className="text-right text-base  md:text-lg mt-4">
             kontakt@majabenn.pl
